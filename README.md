@@ -1,7 +1,7 @@
 # GAME - Rock, Paper and Scissors. 
 
-##Description
+## Description
 Game developed in vanilla Javascript, as a weekend project at Wyncode Academy. 
 
-##Running the application: 
+## Running the application: 
 On terminal run node index.js
